@@ -35,6 +35,7 @@ module.exports = {
     camelcase: 'warn', // camelcase
     'no-undef': 'off', // undefined variables
     'no-irregular-whitespace': 'warn', // irregular
+    '@typescript-eslint/no-unused-vars': 'off',
 
     // These rules relate to ES6, also known as ES2015
     'arrow-parens': 'error', // require parentheses around arrow function arguments
